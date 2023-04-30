@@ -1,5 +1,4 @@
-# Pulse 
-Sentiment Analysis using Chat GPT
+# Pulse - Sentiment Analysis using Chat GPT
 This project uses the Chat GPT, a large language model trained by OpenAI, to perform sentiment analysis on text data generated from customer reviews. The project  includes a Jupyter notebook containing the code used for calling the OpenAI prompts on the review data, a Power BI dashboard for visualizing the sentiment analysis results, and the review data.
 
 
