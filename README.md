@@ -1,12 +1,12 @@
 # Pulse - Customer Experience Hub (CXHub)
 The Customer Experience Hub (CXHub) is an innovative project that leverages the power of Generative AI to capture, analyze, and visualize customer feedback from various channels. It is designed to provide businesses with actionable insights to improve customer satisfaction and loyalty. The project  includes a Jupyter notebook containing the code used for calling the OpenAI prompts on the review data, a Power BI dashboard for visualizing the sentiment analysis results, and the review data.
 
-##Overview
+## Overview
 CXHub is a platform that gathers customer feedback from multiple sources such as social media, support tickets, chatbots, and surveys, then uses Generative AI to analyze and categorize the data. This helps businesses identify trends, monitor customer sentiment, and address issues effectively.
 
 By incorporating Generative AI, CXHub can generate summaries of customer feedback, identify the most critical points, and automatically respond to common queries, ensuring a streamlined and efficient customer service process.
 
-##Features
+## Features
 Multi-channel data collection: CXHub collects customer feedback from various channels including social media platforms, support tickets, chatbots, and surveys.
 Generative AI analysis: The platform utilizes advanced Generative AI models to analyze customer feedback and generate insights.
 Sentiment analysis: CXHub performs sentiment analysis on customer feedback to gauge customer satisfaction and identify areas for improvement.
