@@ -3,13 +3,11 @@ This project uses the Chat GPT, a large language model trained by OpenAI, to per
 
 
 Jupyter Notebook
-The sentiment_analysis.ipynb Jupyter notebook contains the code used for training and testing the Chat GPT model. The notebook first loads the data, preprocesses it, and then trains the model using transfer learning on the Chat GPT architecture. The trained model is then used to predict the sentiment of new text data.
+The pulse.ipynb Jupyter notebook contains the code used for training and testing the Chat GPT model. The notebook first loads the data, preprocesses it, and then trains the model using transfer learning on the Chat GPT architecture. The trained model is then used to predict the sentiment of new text data.
 
 Power BI Dashboard
-The sentiment_analysis.pbix Power BI dashboard provides a visual representation of the sentiment analysis results. The dashboard displays a breakdown of the sentiment categories (positive, negative, and neutral) and also provides insights into the most common words associated with each sentiment category.
+The Hackathon Dashboard updated.pbix Power BI dashboard provides a visual representation of the sentiment analysis results. The dashboard displays a breakdown of the sentiment categories (positive, negative, and neutral) and also provides insights into the most common words associated with each sentiment category.
 
 Usage
-To use this project, clone the repository to your local machine and open the sentiment_analysis.ipynb Jupyter notebook to run the code. You can also open the sentiment_analysis.pbix Power BI dashboard to view the sentiment analysis results.
+To use this project, clone the repository to your local machine and open the pulse.ipynb Jupyter notebook to run the code. You can also open the Hackathon Dashboard updated.pbix Power BI dashboard to view the sentiment analysis results.
 
-Credits
-This project was created by [Your Name]. The Chat GPT model was trained using the OpenAI GPT-3.5 architecture.
